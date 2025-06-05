@@ -7,7 +7,6 @@ Welcome to **CoffeeTime**, a sleek and modern landing page for coffee shops. Bui
 ## 🚀 Live Demo
 
 🔗 [View Live Website](https://bahihegazi.github.io/coffee-time-landing-page)  
-*(Replace this link with your GitHub Pages link after publishing)*
 
 ---
 
