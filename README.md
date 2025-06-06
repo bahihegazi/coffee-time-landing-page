@@ -68,7 +68,7 @@ The layout is fully responsive across:
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by **[Your Name]**  
+Made with ❤️ by **Bahi Hegazi**  
 🔗 GitHub: [@bahihegazi](https://github.com/bahihegazi)
 
 ---
